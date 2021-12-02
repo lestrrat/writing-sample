@@ -12,3 +12,21 @@ make sure the dough ferments and produces enough gas for the bread to rise.
 Since this document will describe the recipe for a rustic, campagne style
 sourdough bread, some special care must be taken when baking the dough,
 which this document will also cover.
+
+# Preparing the Initial Starter
+
+# Instructions to Bake One Camapgne-style Sourdough Bread
+
+## Ingredients
+
+## Preparing the Stater
+
+## Performing "Autolyse"
+
+## Mixing, and Kneading the Dough
+
+## Bulk Fermentation
+
+## Pre-shaping, and Secondary Fermentation
+
+## Shaping, and Baking
