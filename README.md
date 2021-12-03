@@ -17,8 +17,8 @@ which this document will also cover.
 
 Before even attempting to bake anything, you will have to prepare the initial starter.
 
-The starter is a mixture of flour and water with yeast and other bateria added
-either using natural microorganisms that are already present within the flour, or 
+The starter is a mixture of flour and water with yeast and other bacteria added
+either by using natural microorganisms that are already present within the flour, or 
 by separately cultivating a culture of microorganisms from ingredients such as fruits.
 
 The most simple way is to take unbleached flour and the same amount of water, mix
@@ -26,7 +26,7 @@ them and let them sit at room temperature (20~24 degrees celcius) for 2 to 3 day
 
 Start out by taking 50g of unbleached flour, and 50g of water. Mix them well so that
 there are no dry spots, and leave it in a container, lightly sealed (it is more desirable
-to have some amount of oxygen available tot he mixture).
+to have some amount of oxygen available to the mixture).
 
 After 12 hours, add 25g of unbleached flour and 25g of water, and mix it well.
 Repeat this step every 12 hours for 2 to 3 days, until the mixture starts to form
@@ -75,7 +75,7 @@ a bowl, and an oven, we assume that you already have the following equipment:
 * a dutch oven
 * cooking sheet / perchment
 * scale
-* dough scaper
+* dough scraper
 * large bowl
 * 2 pieces of cloth
 * banneton (proofing basket)
@@ -95,7 +95,7 @@ take 20g of initial starter that you have made previously, and mix it well with
 in the original starter will start to feed on the new flour, and will start multiplying.
 
 The amount of time required for the starter to be ready greatly varies depending on the
-weather. During hot summers, it will probably only take an hour two. On cold winter
+weather. During hot summers, it will probably only take an hour or two. On cold winter
 days, you will need to keep it in a temprate location, and may have to wait over night.
 
 The starter will be ready when it has produced enough gas. To check, take one scoop
@@ -108,7 +108,7 @@ Once the starter is ready, you can start working with the dought. However, our r
 calls for a dough with a high hydration level, which in turn means that the dough
 will be soggy and hard to handle.
 
-To alleviate some of this, we can perform an extra step all "autolyse". While the name
+To alleviate some of this, we can perform an extra step called "autolyse". While the name
 is fancy, this just means that you mix the flour and the water, and let it sit for
 about an hour.
 
@@ -118,7 +118,7 @@ required.
 
 This step maybe omitted, especially if you are using a stand mixer and not your
 bare hands to knead the dough. However, since it does save some work time, it is
-highly recommended.
+highly recommended either way.
 
 ## Mixing, and Kneading the Dough
 
@@ -127,11 +127,11 @@ a stand mixer, mix the ingredients well so that they incorporate. It is recommen
 you do not _knead_ the dough initially. Instead, fold the dough onto itself, and
 merge the starter into the dough gradually.
 
-Once the starter has been incorporated, start out by taking a pinch of the dough, and
-pull it up, then fold it onto the dough. Rotate the dough 90 degrees, and repeat the process
-3 more times. This process is sometimes refered to as "stretch-and-fold".
+Once the starter has been incorporated, start out by taking a pinch of the dough from one of
+the sides, and pull it up, then fold it onto the dough. Rotate the dough 90 degrees, and
+repeat the process 3 more times. This process is sometimes refered to as "stretch-and-fold".
 
-While you are handling the dough, it is important not to pull so hard that the dough
+While you are handling the dough, it is important to not pull so hard that the dough
 breaks. The goal is to create a mesh of gluten over each other, not to cut the mesh.
 
 After this point, some recipes call to start the next step, bulk fermentation, and
@@ -150,8 +150,8 @@ Knead the dough further until the salt is fully incorporated.
 ## Bulk Fermentation
 
 With the dough kneaded, place the dough back in a bowl or a container. Optionally, coat
-the sides of your container with olive oil, both to prevent the dough from sticking,
-and to add some extra flavor.
+the sides of your container with olive oil before placing the dough in it, both to prevent
+the dough from sticking, and to add some extra flavor.
 
 Lightly seal the container using a wet piece of cloth. You may use plastic wraps as well,
 but applying some extra moisture helps during the next step, which is called the
@@ -160,7 +160,8 @@ bulk fermentation.
 In the bulk fermentation step, the goal is to have the microorganisms multiply within the
 entire dough, and let them produce gas. This gas in turn creates small rooms within the dough,
 thanks to the gluten network that you have created during the kneading process. Without the
-glutain network, the gases escape far more easily, and you end up with a more dense dough.
+glutain network, the gases escape far more easily, and you end up with a more dense dough
+(or a very flat dough).
 
 Just like when you were cultivating the microorganisms for your starter, it is important to
 watch out for the temprature during the bulk fermentation stage. The yeast and other bacteria
@@ -175,7 +176,7 @@ The duration for the bulk fermentation stage varies, but in general it should ta
 from 3 to 24 hours. The bulk fermentation can be considered done when the dough size increases
 to around twice the orignal dough size.
 
-Every 2 to 3 hours, perform another around of stretch and fold.
+Every 2 to 3 hours, perform another around of stretch and fold while you let the dough ferment.
 
 ## Pre-shaping, and Secondary Fermentation
 
@@ -209,7 +210,8 @@ that is close your body, roll the dough towards the other end, creating a "roll"
 Using your dough scraper, push the dough from one side to the other. The dough should be
 sticking just slightly to your working surface, resisting to move. While the dough resists and
 you keep pushing, you will notice that the dough folds over itself at the bottom, where it is
-sticking to the working suface.
+sticking to the working suface. This pulls the surface of the dough, and creates tension,
+which is what we want.
 
 Repeat the above process from other sides, and this should create a round dough with tension
 at the surface. When you have a round dough, use your dough scraper to lift the dough, and place
@@ -228,11 +230,12 @@ When the oven is ready, take the dough out from the basket, and place it over a 
 is large enough for your bread. To take the dough out, simply place the perchment over the
 dough while it's still in the basket, and simply flip it upside down.
 
-Place the dough and the perchment onto a surface. Take your razoer, and cut the dough at its
-surface, straight through the center. The incision does not need to be too deep, but it could
-go for 5mm to 1cm. This incision, or "coupe" acts as a release for the vapors that will form
-within the dough. This way the vapors know exactly where to escape from, but without it, they
-will try to escape from whereever they can, thereby creating holes and cracks in your dough
+Place the dough and the perchment onto a surface. Take your razor, and cut the dough at its
+surface, straight through the center. This incision is called the "coupe", and there are various
+ornamental decorations you could do with it, but in  this sample we're just using the simplest form.
+The incision does not need to be too deep, but it could go for 5mm to 1cm. This coupe acts a release
+for the vapors that will form within the dough. This way the vapors know exactly where to escape from.
+Without it, they will try to escape from whereever they can, thereby creating holou es and cracks in your dough
 at random locations.
 
 Take the dutch oven out of the oven carefully, and place the dough and the perchment inside it.
