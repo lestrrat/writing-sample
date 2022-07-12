@@ -49,7 +49,7 @@ container, and store it in your refrigerator indefinitely, as long as you keep f
 regularly. Feeding consists of adding the same amount of flour and water at least once
 a week. As before, you can always discard extra starter mixture if you have too much of it.
 
-# Instructions to Bake One Camapgne-style Sourdough Bread
+# Instructions to Bake One Campagne-style Sourdough Bread
 
 Once you have your initial starter, you can start the baking process. This recipe will
 walk you through the steps required to bake a campagne style sourdough bread, and will
