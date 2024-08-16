@@ -65,7 +65,7 @@ Here are the ingredients required to prepare the starter for this one sourdough:
 
 And here are the ingredients required for the rest of the dough
 * 500g flour (bleached)
-* 370g water
+* 350ml water
 * 10g salt
 * 10g olive oil (optional)
 * small amount of rice flour
